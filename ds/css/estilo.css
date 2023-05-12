@@ -4,7 +4,7 @@
 }
 
 .texto{
-    color:darkblue;
+    color:rgb(219, 15, 15);
     text-align: center;
     font-size: 20px;
 }
@@ -22,9 +22,7 @@
 }
 
 body{
-    background-image:url("../img/monitor.jpg");
-    background-repeat:no-repeat;
-    background-size: 1900px 2650px;
+    background-color:black;
 }
 
 .filmes{
@@ -35,7 +33,7 @@ body{
 .os_filmes{
     color:green;
     text-align: center;
-    font-size: 18px;
+    font-size: 40px;
 }
 
 .series{
@@ -46,7 +44,7 @@ body{
 .as_series{
     color:cyan;
     text-align: center;
-    font-size: 18px;
+    font-size: 40px;
 }
 
 .animes{
@@ -57,5 +55,17 @@ body{
 .os_animes{
     color:darkorange;
     text-align: center;
-    font-size: 18px;
+    font-size: 40px;
+}
+
+.culinária{
+    color:greenyellow;
+    text-align: center;
+    font-size: 40px;
+}
+
+.final{
+    color:hotpink;
+    text-align: center;
+    font-size:30px;
 }
