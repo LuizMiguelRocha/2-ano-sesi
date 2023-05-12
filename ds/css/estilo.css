@@ -9,12 +9,6 @@
     font-size: 20px;
 }
 
-.jogos{
-    color:blue;
-    text-align: center;
-    font-size: 20px;
-}
-
 .os_jogos{
     color:lightgreen;
     text-align: center;
@@ -68,4 +62,9 @@ body{
     color:hotpink;
     text-align: center;
     font-size:30px;
+}
+
+#nome-id {
+    color:blue;
+    text-align: center;
 }
